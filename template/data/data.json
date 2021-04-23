@@ -1,0 +1,16 @@
+{
+    "menu-items": [
+        [
+            {
+                "name": "espresso",
+                "description": "rich, bold, & delicious",
+                "price": 1.75
+            },
+            {
+                "name": "capaccino",
+                "description": "rich, frothy milk with a shot of espresso",
+                "price": 2.5
+            }
+        ]
+    ]
+}
